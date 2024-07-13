@@ -9,13 +9,15 @@
 - [Postman Collection](./Library.postman_collection.json)
 - Eclipse
 - [OpenApi-ui](http://localhost:8080/swagger-ui/index.html)
+- Git
+- [GitHub](https://github.com/cruzgarciamb/walmart)
 
 ## Pre-requisites
 Open JDK 17
 
 ## Run on Localhost Env
 1. Clone the project from git-lab
-[walmart-library](https://)
+[walmart-library](https://github.com/cruzgarciamb/walmart)
 2. Run the App in your IDE the builded file
 ```shell
     java -jar walmart-library-0.0.1-SNAPSHOT.jar
